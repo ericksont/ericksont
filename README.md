@@ -5,7 +5,7 @@
 </a>
 <br /><br />
 <p> 
-🚀 <b style="color:#555555;">Bem-vindo ao meu perfil!</b> <i>Sou um entusiasta da tecnologia com uma paixão pela criação de soluções inovadoras. Minha jornada inclui <span style="text-decoration: underline;">experiência sólida em desenvolvimento e análise de sistemas<span>.</i>
+🚀 <b style="color:#555555;">Bem-vindo ao meu perfil!</b> <i>Sou um entusiasta da tecnologia com uma paixão pela criação de soluções inovadoras. Minha jornada inclui *experiência sólida em desenvolvimento e análise de sistemas*.</i>
 </p>
 <p>
 <i>Estou <span style="text-decoration: underline;">sempre em busca de desafios</span> que me permitam <b style="color:#555555;">APRENDER</b> e <b style="color:#555555;">CRESCER</b>. Colaborei em projetos diversificados, desde aplicações web até sistemas complexos, e estou animado para enfrentar novos desafios.</i>
