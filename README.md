@@ -12,13 +12,9 @@ Fortaleza, Ceará
 
 <br clear="both" />
 
----
-
 ## Sobre
 
 Há cerca de 19 anos construo software, da implementação full stack à liderança de times. O percurso passa por aplicações web, bancos de dados e infraestrutura, com foco recente em cloud, DevOps e inteligência artificial.
-
----
 
 ## Stack
 
@@ -26,38 +22,44 @@ Há cerca de 19 anos construo software, da implementação full stack à lideran
 
 **Frontend**
 
-React · Next.js · Angular · Vue.js
+React · Next.js · Angular · Vue.js · HTML5
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue&theme=dark" alt="React, Next.js, Angular e Vue.js" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,html&theme=dark" alt="HTML5, React, Next.js, Angular e Vue.js" />
+
+<hr style="width:200px" />
+
+<br/>
 
 **Backend**
 
-Node.js · Express · NestJS · Spring Boot · PHP · Java
+Node.js · Express · NestJS · Java · Spring Boot · PHP · Laravel 
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,php,java&theme=dark" alt="Node.js, Express, NestJS, Spring Boot, PHP e Java" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel&theme=dark" alt="Node.js, Express, NestJS, Spring Boot, PHP, Laravel e Java" />
+
+<hr style="width:200px" />
+
+<br/>
 
 **Dados**
 
-PostgreSQL · MySQL · MongoDB
+PostgreSQL · MySQL · MongoDB · Oracle Database
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="PostgreSQL, MySQL e MongoDB" />
+<img src="images/oracle.svg" width="48" height="48" alt="Oracle Database" />
+
+<hr style="width:200px" />
+
+<br/>
 
 **Cloud e DevOps**
 
-GitLab · AWS · Linux
+GitLab · AWS · Docker · Kubernetes · Linux
 
-<img src="https://skillicons.dev/icons?i=gitlab,aws,linux&theme=dark" alt="GitLab, AWS e Linux" />
+<img src="https://skillicons.dev/icons?i=gitlab,aws,docker,kubernetes,linux&theme=dark" alt="GitLab, AWS, Docker, Kubernetes e Linux" />
 
-<br />
-
-<img src="https://img.shields.io/badge/Oracle-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-<img src="https://img.shields.io/badge/PL%2FSQL-7C3AED?style=for-the-badge" alt="PL/SQL" />
-<img src="https://img.shields.io/badge/OpenShift-7C3AED?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift" />
-<img src="https://img.shields.io/badge/Oracle_Field_Service-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Field Service" />
+<hr style="width:200px" />
 
 </div>
-
----
 
 ## Trajetória
 
@@ -86,14 +88,4 @@ GitLab · AWS · Linux
 - NestJS: Building Real Project API — Udemy, jul/2024
 - AWS Job Roles in the Cloud — Amazon Web Services, jun/2024
 
----
 
-## Contato
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksontavares)
-[![Site](https://img.shields.io/badge/Site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](http://www.ericksontavares.com.br)
-[![GitHub](https://img.shields.io/badge/GitHub-ericksont-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericksont)
-
-</div>
