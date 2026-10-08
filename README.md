@@ -41,6 +41,8 @@ Node.js · Express · NestJS · Java · Spring Boot · PHP · Laravel
 <img src="images/divider.svg" width="200" height="2" alt="" />
 
 <br clear="both" />
+<br/>
+
 
 **Dados**
 
@@ -52,6 +54,8 @@ PostgreSQL · MySQL · MongoDB · Oracle Database
 <img src="images/divider.svg" width="200" height="2" alt="" />
 
 <br clear="both" />
+<br/>
+
 
 **Cloud e DevOps**
 
