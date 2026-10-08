@@ -24,9 +24,9 @@ Há cerca de 19 anos construo software, da implementação full stack à lideran
 
 React · Next.js · Angular · Vue.js · HTML5
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,html&theme=dark" alt="HTML5, React, Next.js, Angular e Vue.js" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,html&theme=dark" alt="React, Next.js, Angular, Vue.js e HTML5" />
 
-<hr style="width:200px" />
+<img src="images/divider.svg" width="200" height="2" alt="" />
 
 <br/>
 
@@ -34,9 +34,9 @@ React · Next.js · Angular · Vue.js · HTML5
 
 Node.js · Express · NestJS · Java · Spring Boot · PHP · Laravel 
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel&theme=dark" alt="Node.js, Express, NestJS, Spring Boot, PHP, Laravel e Java" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel&theme=dark" alt="Node.js, Express, NestJS, Java, Spring Boot, PHP e Laravel" />
 
-<hr style="width:200px" />
+<img src="images/divider.svg" width="200" height="2" alt="" />
 
 <br/>
 
@@ -47,7 +47,7 @@ PostgreSQL · MySQL · MongoDB · Oracle Database
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="PostgreSQL, MySQL e MongoDB" />
 <img src="images/oracle.svg" width="48" height="48" alt="Oracle Database" />
 
-<hr style="width:200px" />
+<img src="images/divider.svg" width="200" height="2" alt="" />
 
 <br/>
 
@@ -57,7 +57,7 @@ GitLab · AWS · Docker · Kubernetes · Linux
 
 <img src="https://skillicons.dev/icons?i=gitlab,aws,docker,kubernetes,linux&theme=dark" alt="GitLab, AWS, Docker, Kubernetes e Linux" />
 
-<hr style="width:200px" />
+<img src="images/divider.svg" width="200" height="2" alt="" />
 
 </div>
 
