@@ -63,7 +63,6 @@ GitLab · AWS · Docker · Kubernetes · Linux
 
 <img src="https://skillicons.dev/icons?i=gitlab,aws,docker,kubernetes,linux&theme=dark" alt="GitLab, AWS, Docker, Kubernetes e Linux" />
 <br/>
-<img src="images/divider.svg" width="200" height="1" alt="" />
 
 </div>
 
