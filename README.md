@@ -29,6 +29,7 @@ React · Next.js · Angular · Vue.js · HTML5
 <img src="images/divider.svg" width="200" height="2" alt="" />
 
 <br clear="both" />
+<br/>
 
 
 **Backend**
