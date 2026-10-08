@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td valign="top">
+<img align="right" src="images/computer-illustration.png" width="280" alt="Ilustração isométrica de um notebook com código na tela e um copo, em tons de violeta" />
 
 # Erickson Tavares de Sousa
 
@@ -8,25 +6,15 @@
 
 Fortaleza, Ceará
 
-</td>
-<td></td>
-</tr>
-<tr>
-<td valign="top">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericksontavares)
 [![Site](https://img.shields.io/badge/Site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](http://www.ericksontavares.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-ericksont-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ericksont)
 
-</td>
-<td valign="top" align="right">
+<br />
 
-<br /><br />
-<img src="images/computer-illustration.png" width="280" alt="Ilustração isométrica de um notebook com código na tela e um copo, em tons de violeta" />
+![Analista de Sistemas na Spread Tecnologia](https://img.shields.io/badge/Analista_de_Sistemas-Spread_Tecnologia-7C3AED?style=for-the-badge)
 
-</td>
-</tr>
-</table>
+<br clear="both" />
 
 ---
 
