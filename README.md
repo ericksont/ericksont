@@ -28,7 +28,8 @@ React · Next.js · Angular · Vue.js · HTML5
 <br/>
 <img src="images/divider.svg" width="200" height="2" alt="" />
 
-<br/>
+<br clear="both" />
+
 
 **Backend**
 
@@ -38,7 +39,7 @@ Node.js · Express · NestJS · Java · Spring Boot · PHP · Laravel
 <br/>
 <img src="images/divider.svg" width="200" height="2" alt="" />
 
-<br/>
+<br clear="both" />
 
 **Dados**
 
@@ -49,7 +50,7 @@ PostgreSQL · MySQL · MongoDB · Oracle Database
 <br/>
 <img src="images/divider.svg" width="200" height="2" alt="" />
 
-<br/>
+<br clear="both" />
 
 **Cloud e DevOps**
 
