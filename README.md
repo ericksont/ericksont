@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="images/computer-illustration.png" width="280" alt="Ilustração isométrica de um notebook com código na tela e um copo, em tons de violeta" />
+<img align="right" src="images/computer-illustration.png" width="280" alt="Ilustração isométrica de um notebook com código na tela e um copo, em tons de violeta" />
 
 # Erickson Tavares de Sousa
 
@@ -16,7 +14,7 @@ Fortaleza, Ceará
 
 ![Analista de Sistemas na Spread Tecnologia](https://img.shields.io/badge/Analista_de_Sistemas-Spread_Tecnologia-7C3AED?style=for-the-badge)
 
-</div>
+<br clear="both" />
 
 ---
 
